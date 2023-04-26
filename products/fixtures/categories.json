@@ -1,0 +1,66 @@
+[
+  {
+    "model": "products.productcategory",
+    "pk": 1,
+    "fields": {
+      "name": "Вещи",
+      "description": ""
+    }
+  },
+  {
+    "model": "products.productcategory",
+    "pk": 2,
+    "fields": {
+      "name": "Others",
+      "description": null
+    }
+  },
+  {
+    "model": "products.productcategory",
+    "pk": 3,
+    "fields": {
+      "name": "Аксессуары",
+      "description": ""
+    }
+  },
+  {
+    "model": "products.productcategory",
+    "pk": 4,
+    "fields": {
+      "name": "Новинки",
+      "description": ""
+    }
+  },
+  {
+    "model": "products.productcategory",
+    "pk": 5,
+    "fields": {
+      "name": "Подарки",
+      "description": ""
+    }
+  },
+  {
+    "model": "products.productcategory",
+    "pk": 6,
+    "fields": {
+      "name": "Уникальные",
+      "description": ""
+    }
+  },
+  {
+    "model": "products.productcategory",
+    "pk": 7,
+    "fields": {
+      "name": "Шутка",
+      "description": ""
+    }
+  },
+  {
+    "model": "products.productcategory",
+    "pk": 8,
+    "fields": {
+      "name": "Бравл старс",
+      "description": ""
+    }
+  }
+]

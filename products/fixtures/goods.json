@@ -1,0 +1,218 @@
+[
+  {
+    "model": "products.product",
+    "pk": 1,
+    "fields": {
+      "name": "Коллет",
+      "description": "Самая лучшая вайфу из Бравл старс",
+      "price": "7775.00",
+      "quantity": 1,
+      "image": "products_images/fa53d75870b1259fe2a38c6b47824f47.jpg",
+      "category": 8
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 2,
+    "fields": {
+      "name": "Белль",
+      "description": "Хорошая милфочка из Бравл старс",
+      "price": "1233.00",
+      "quantity": 3,
+      "image": "products_images/Без_названия_1.jpeg",
+      "category": 8
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 3,
+    "fields": {
+      "name": "Легенда",
+      "description": "Та самая легенда из сказок",
+      "price": "5555.00",
+      "quantity": 233,
+      "image": "products_images/IMG_20220606_143049_873.jpg",
+      "category": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 4,
+    "fields": {
+      "name": "Котик",
+      "description": "Бесценно. Но автор оценивает его на хххх сумму:",
+      "price": "6666.00",
+      "quantity": 2,
+      "image": "products_images/1Lu9NW7gTcM.jpg",
+      "category": 6
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 5,
+    "fields": {
+      "name": "Скала Дора",
+      "description": "Сложно представить как Жулик что-то у него сворует",
+      "price": "4443.00",
+      "quantity": 4,
+      "image": "products_images/IMG_20220707_085916_477.jpg",
+      "category": 3
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 6,
+    "fields": {
+      "name": "Когда зп?",
+      "description": "В ожиданий зп :))",
+      "price": "10.00",
+      "quantity": 2333,
+      "image": "products_images/IMG_20220901_074508_421_KaaZD3v.jpg",
+      "category": 7
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 7,
+    "fields": {
+      "name": "logo",
+      "description": "my logo",
+      "price": "1221.00",
+      "quantity": 11,
+      "image": "products_images/logo.png",
+      "category": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 8,
+    "fields": {
+      "name": "sam",
+      "description": "Assistant Sam",
+      "price": "9999.00",
+      "quantity": 1,
+      "image": "products_images/-_ubrivt6wI.jpg",
+      "category": 6
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 9,
+    "fields": {
+      "name": "Nigga",
+      "description": "the best slave",
+      "price": "1.00",
+      "quantity": 99999,
+      "image": "products_images/0dfa5c8ecb5b2d75a9a55e8a74efe3c4.jpg",
+      "category": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 10,
+    "fields": {
+      "name": "2pac",
+      "description": "the legend of hip-hop",
+      "price": "9999.00",
+      "quantity": 1,
+      "image": "products_images/2pac-dr-dre-albums-reportedly-not-included-snoop-dogg-death-row-records-_L6gzBCa.jpg",
+      "category": 5
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 11,
+    "fields": {
+      "name": "fish",
+      "description": "fish",
+      "price": "100.00",
+      "quantity": 100,
+      "image": "products_images/7Blz0BcalFs.jpg",
+      "category": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 12,
+    "fields": {
+      "name": "idk whats that",
+      "description": "idk whats that",
+      "price": "777.00",
+      "quantity": 1,
+      "image": "products_images/9TM0F0Ap6qc.jpg",
+      "category": 4
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 13,
+    "fields": {
+      "name": "The best manga waifu",
+      "description": "its Kaguya",
+      "price": "9999.00",
+      "quantity": 1,
+      "image": "products_images/025_iUqq.jpeg",
+      "category": 6
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 14,
+    "fields": {
+      "name": "Мое увожение",
+      "description": "Оно дорогое",
+      "price": "1.00",
+      "quantity": 100,
+      "image": "products_images/aAkgK9nlgLU.jpg",
+      "category": 5
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 15,
+    "fields": {
+      "name": "пикча",
+      "description": "полезная",
+      "price": "1221.00",
+      "quantity": 2233,
+      "image": "products_images/C2qhSBxSUN8.jpg",
+      "category": 4
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 16,
+    "fields": {
+      "name": "Фейри",
+      "description": "смывает жир, но не твою :)))",
+      "price": "320.00",
+      "quantity": 12,
+      "image": "products_images/YXy60svO9Ho.jpg",
+      "category": 7
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 17,
+    "fields": {
+      "name": "Гига клоун",
+      "description": "чел либо рофлит, либо клоун",
+      "price": "750.00",
+      "quantity": 10,
+      "image": "products_images/yeTmEBzgVDs.jpg",
+      "category": 7
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 18,
+    "fields": {
+      "name": "Кобра",
+      "description": "Ебат, он курит",
+      "price": "925.00",
+      "quantity": 212,
+      "image": "products_images/puHS0dI0WwA.jpg",
+      "category": 5
+    }
+  }
+]
